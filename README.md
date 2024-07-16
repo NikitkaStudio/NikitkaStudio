@@ -13,4 +13,5 @@
 
 # Над чем работаю в данный момент
 Над Matrex и WSkype
-<img alt="markdown" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/markdown_vector.svg">
+
+<img alt="markdown" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/markdown_vector.svg">
