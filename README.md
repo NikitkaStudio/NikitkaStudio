@@ -1,17 +1,11 @@
-# Привет! Ты на странице NikitkaStudio
-Я занимаюсь программированием на HTML, CSS, JS, Python, Ruby, C#, и т.д.
+# Hallo! U r on page of NikitkaStudio
+I'm love coding and i love my fans <3
 
-# ЧаВо
-Вопрос: Ты кто?
-Ответ: Никитка Кодер
+# FAQ
+Q: Are you boy?
+A: Yes
 
-Вопрос: Ты хацкер?
-Ответ: Неа.
+Q: Do you a hacker?
+A: NO BRUH
 
-Вопрос: Какой твой популярный проект?
-Ответ: WSkype!
-
-# Над чем работаю в данный момент
-Над Matrex и WSkype
-
-<img alt="markdown" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/markdown_vector.svg">
+<a href="https://github.com/NikitkaStudio"><img alt="me on github" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/social/github-singular_vector.svg"></a>
